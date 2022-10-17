@@ -2,6 +2,10 @@
 
 Demo: https://dic.manu.uno/
 
+## Donating
+
+https://dic.manu.uno/donate
+
 ## Map
 
 ```
